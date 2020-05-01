@@ -1,0 +1,104 @@
+
+
+head {
+    background-color: powderblue;
+}
+hr.new1 {
+background-color: #000000;
+border: 10px solid black;
+border-radius: 7px 7px 7px 7px;
+height: 10px;
+}
+
+h3{
+ 
+  text-align: right;
+  font-size: 110%;
+  }
+button.but1{
+    background-color: powderblue;
+    border-radius: 7px 7px 7px 7px;
+    font-size: 110%;
+    box-shadow: 1px 2px rgb(117, 186, 196);
+    display: center;
+}
+header{
+text-align: center;
+margin: 50px;
+font-size: 150%;
+}
+
+
+body {
+    background-color: rgb(74, 69, 124);
+    font-family: Arial, Helvetica, sans-serif;
+      }
+  h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+  }
+  p {
+    color: rgb(0, 0, 0);
+    font-size: 125%;
+    text-align: center;
+  }
+
+  img.ProfilePic
+  {
+    float: right;
+    width: 50px;
+    height: 50px; 
+    border-radius: 7px 7px 7px 7px;
+    float: right;
+  }
+  h1.uname{
+     
+     /* display: inline-block; */
+    float: right;
+    
+   
+    }
+    h2{
+      text-align: left;
+      display: inline-block;
+       
+     }
+     .image
+     {
+      border: 5px solid powderblue; 
+      margin: auto;
+      width: 50%;
+      padding: 10px;
+     }
+     .post
+     {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+       width: 400px;
+      height: 400px; 
+      
+    }
+    .post1
+     {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+      text-align: center;
+      
+    }
+    .file
+    {
+      background-color: powderblue;
+      border-radius: 7px 7px 7px 7px;
+      font-size: 110%;
+      box-shadow: 1px 2px rgb(117, 186, 196);
+    }
+    .submit
+    {
+      background-color: powderblue;
+      border-radius: 7px 7px 7px 7px;
+      font-size: 110%;
+      box-shadow: 1px 2px rgb(117, 186, 196);
+    }
